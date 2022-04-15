@@ -1914,10 +1914,16 @@
       "links": {},
       "address": "0xF39f2d22a15081Da07615e7c07cc52fe15ef0e04",
       "transactionHash": "0xc6e388e54f44328973218c326e0f0e02b32277565b875a01732d13295f6005de"
+    },
+    "5777": {
+      "events": {},
+      "links": {},
+      "address": "0xb1c3DB98891DA25dE46fc8434e96e12B72b351cE",
+      "transactionHash": "0x6dcb2bc8aed8b8a1aaaaa17854fa3e79b007f5e7ef4abc4a7e2e960aab0bc3fa"
     }
   },
   "schemaVersion": "3.4.7",
-  "updatedAt": "2022-04-15T09:07:14.759Z",
+  "updatedAt": "2022-04-15T14:29:24.451Z",
   "devdoc": {
     "kind": "dev",
     "methods": {},
